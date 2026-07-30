@@ -48,7 +48,7 @@ This project answers these business questions using data-driven analysis.
 | Pandas | Data Manipulation |
 | NumPy | Numerical Operations |
 | Matplotlib | Data Visualization |
-| SQL | Data Analysis |
+| SQL | Data Merging |
 | Excel | Initial Data Exploration |
 | Scikit-Learn | Machine Learning |
 | Power BI | Dashboard Development |
