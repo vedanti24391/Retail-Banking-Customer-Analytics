@@ -240,17 +240,11 @@ The project includes three interactive dashboard pages.
 
 # 📷 Dashboard Preview
 
-## Executive Summary
+![Executive Dashboard](Retail Banking - Executive Summary.PNG)
 
-![Executive Dashboard](Images/Dashboard_Executive.png)
+![Customer Analytics](Retail banking - Customer Analytics.PNG)
 
-## Customer Analytics
-
-![Customer Analytics](Images/Dashboard_Customer_Analytics.png)
-
-## Customer Retention
-
-![Customer Retention](Images/Dashboard_Customer_Retention.png)
+![Customer Retention](Retail Banking-Customer retention & Insights.PNG)
 
 # 📌 Key Business Insights
 
