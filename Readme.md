@@ -242,21 +242,15 @@ The project includes three interactive dashboard pages.
 
 ## Executive Summary
 
-> *(Insert Dashboard_Executive.png here)*
-
----
+![Executive Dashboard](Images/Dashboard_Executive.png)
 
 ## Customer Analytics
 
-> *(Insert Dashboard_Customer_Analytics.png here)*
-
----
+![Customer Analytics](Images/Dashboard_Customer_Analytics.png)
 
 ## Customer Retention
 
-> *(Insert Dashboard_Customer_Retention.png here)*
-
----
+![Customer Retention](Images/Dashboard_Customer_Retention.png)
 
 # 📌 Key Business Insights
 
