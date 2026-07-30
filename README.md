@@ -240,11 +240,11 @@ The project includes three interactive dashboard pages.
 
 # 📷 Dashboard Preview
 
-![Executive Dashboard](Executive_Summary.png)
+![Executive Summary Dashboard](Executive_Summary.png)
 
-![Customer Analytics](Customer_Analytics.png)
+![Customer Analytics Dashboard](Customer_Analytics.png)
 
-![Customer Retention](Customer_Retention.png)
+![Customer Retention Dashboard](Customer_Retention.png)
 # 📌 Key Business Insights
 
 - Analyzed approximately 24,000 retail banking customers.
